@@ -19,7 +19,7 @@ A cute, clean, and minimal profile card built with HTML and CSS, perfect for tec
 
 ## 🧰 How to Use
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/profile-card.git
