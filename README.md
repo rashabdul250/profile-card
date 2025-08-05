@@ -1,6 +1,6 @@
 # 💜 Deerah's Tech Girl Profile Card
 
-A cute, clean, and minimal profile card built with HTML and CSS — perfect for tech girlies who want to introduce themselves with a soft aesthetic. This project is ideal for personal portfolios, landing pages, or “About Me” components.
+A cute, clean, and minimal profile card built with HTML and CSS, perfect for tech girlies who want to introduce themselves with a soft aesthetic. This project is ideal for personal portfolios, landing pages, or “About Me” components.
 
 ## ✨ Features
 
